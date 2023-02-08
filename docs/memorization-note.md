@@ -13,17 +13,16 @@ tags: 암기, 노트
 경영전략
 -----  
 #### SEM; Strategic Enterprise Management
-기업정보를 정확히 분석하여 가치중심경영을 구현하는 경영전략기법
+> 기업정보를 정확히 분석하여 가치중심경영을 구현하는 경영전략기법
 
 #### BI; Business Intelligence
-기업의 목표달성을 위한 의사결정을 지원하기 위한 경영전략기법
+> 기업의 목표달성을 위한 의사결정을 지원하기 위한 경영전략기법
 
-
-####; Coporate Performance Management
-전사적 성과관리
+#### CPM; Coporate Performance Management
+> 전사적 성과관리
 
 #### VBM; Value Based Management
-가치중심 경영전략
+> 가치중심 경영전략
   
   
 경영관리
