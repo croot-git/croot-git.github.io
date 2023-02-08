@@ -21,9 +21,9 @@ platforms:
 
 navigation:
   - name: 암기노트
-    link: ./docs/memorization-note.html
+    link: /docs/memorization-note.html
   - name: Readme
-    link: ./index.html
+    link: /index.html
     sublist:
       - name: Image
-        link: ./index.html#small-image
+        link: /index.html#small-image
