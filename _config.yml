@@ -20,6 +20,8 @@ platforms:
     link: https://github.com/croot-git
 
 navigation:
+  - name: 용어집
+    link: /docs/glossary.html
   - name: 암기노트
     link: /docs/memorization-note.html
   - name: Readme
