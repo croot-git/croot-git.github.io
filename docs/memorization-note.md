@@ -1,8 +1,9 @@
 ---
 layout: post
+tags: 암기, 노트
 ---
 
-## Welcome to another page
+## 암기노트
 
 _yay_
 Text can be **bold**, _italic_, or ~~strikethrough~~.

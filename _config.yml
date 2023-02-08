@@ -1,9 +1,10 @@
-title: Minimalistic
+title: CRoot blog
 logo: /assets/img/logo.jpg
+author: croot
 email: croot.dev@gmail.com
-description: Minimalistic is a theme powered by Jekyll.
+description: CRoot blog
 favicon: true
-color-scheme: auto
+color-scheme: dark
 
 plugins:
   - jekyll-sitemap
@@ -11,18 +12,18 @@ plugins:
   - jemoji
 
 platforms:
+  - name: Homepage
+    icon: <i class="fa-solid fa-link"></i>
+    link: https://www.roottech.co.kr
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/croot-git
-  - name: Homepage
-    icon: <i class="fa-house"></i>
-    link: https://www.roottech.co.kr
 
 navigation:
+  - name: 암기노트
+    link: ./docs/memorization-note.html
   - name: Readme
     link: ./index.html
     sublist:
       - name: Image
         link: ./index.html#small-image
-  - name: Another Page
-    link: ./another-page.html
