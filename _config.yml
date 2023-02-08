@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Just the Docs
 description: A Jekyll theme for documentation
-baseurl: "/blogs"
+baseurl: "/"
 url: "https://croot-git.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
