@@ -1,0 +1,56 @@
+
+html {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+} 
+@media (min-width: 38em) {
+  html {
+    font-size: 16px;
+  }
+}
+
+/*
+ * Sidebar
+ *
+ * The sidebar is the drawer, the item we are toggling with our handy hamburger
+ * button in the corner of the page.
+ *
+ * This particular sidebar implementation was inspired by Chris Coyier's
+ * "Offcanvas Menu with CSS Target" article, and the checkbox variation from the
+ * comments by a reader. It modifies both implementations to continue using the
+ * checkbox (no change in URL means no polluted browser history), but this uses
+ * `position` for the menu to avoid some potential content reflow issues.
+ *
+ * Source: http://css-tricks.com/off-canvas-menu-with-css-target/#comment-207504
+ */
+@media (min-width: 30em) {
+  .sidebar {
+    font-size: 1em;
+  }
+}
+
+/*
+ * Container
+ *
+ * Center the page content.
+ */
+
+ .container {
+    max-width: 28rem;
+  }
+  @media (min-width: 38em) {
+    .container {
+      max-width: 32rem;
+    }
+  }
+  @media (min-width: 56em) {
+    .container {
+      max-width: 43rem;
+    }
+  }
+  @media (min-width: 80em) {
+    .container {
+      max-width: 60rem;
+    }
+  }

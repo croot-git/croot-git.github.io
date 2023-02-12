@@ -1,31 +1,22 @@
-title: CRoot blog
-logo: /assets/img/logo.jpg
-author: croot
-email: croot.dev@gmail.com
-description: CRoot blog
-favicon: true
-color-scheme: dark
+# Setup
+title:               croot blog
+tagline:             'front-end developer'
+description:         'Welcome!<br>This is a front-end developer croot`s blog<br>This is a personal space.'
+url:                 https://croot-git.github.io
+baseurl:             ''
+paginate:            5
+permalink:           pretty
 
+# About/contact
+author:
+  name:              croot
+  url:               https://croot-git.github.io
+  email:             croot.dev@gmail.com
+
+# Gems
 plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jemoji
+  - jekyll-paginate
 
-platforms:
-  - name: Homepage
-    icon: <i class="fa-solid fa-link"></i>
-    link: https://www.roottech.co.kr
-  - name: GitHub
-    icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/croot-git
-
-navigation:
-  - name: 용어집
-    link: /docs/glossary.html
-  - name: 암기노트
-    link: /docs/memorization-note.html
-  - name: Readme
-    link: /index.html
-    sublist:
-      - name: Image
-        link: /index.html#small-image
+# Custom vars
+version:             1.1.0
+google_analytics_id: G-XDNR3M11VH #UA-XXXX-Y
