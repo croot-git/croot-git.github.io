@@ -1,20 +1,10 @@
 ---
-layout: post
+layout: page
 title: 용어집
 tags: 용어, 정의
 ---
 
-<style>
-table tr td:first-child {
-    width: 31.4%
-}
-table span {
-    display:block;
-    font-size: .85em;
-}
-</style>
 
-=====
 > **[설명에 들어가야 할 것]**  
 > 1. 명사 마무리 (기술, 시스템, 문화, 서비스, 전략, 기법, 상태 등)  
 > 1. [Optional] 목적 (~를 위한),  
@@ -66,5 +56,3 @@ table span {
 | IRR <span>Internal Rate of Return</span> | 내부 수익율 |
 | NPV <span>Net Present Value</span> | 순현재가치 |
 | ROI <span>Return Of Investment</span> | 투자 대비 수익율 |
-
-[back](./)

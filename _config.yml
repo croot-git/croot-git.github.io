@@ -18,6 +18,8 @@ plugins:
   - jekyll-paginate
 
 # Custom vars
-version:             1.1.0
+github:
+  repo:              https://github.com/croot-git
+version:             1.0.0
 google_analytics_id: #UA-XXXX-Y
 google_tag_id: G-XDNR3M11VH
