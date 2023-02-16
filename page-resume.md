@@ -15,20 +15,34 @@ Geun-Ho, Choi
 
 ----
 
-Education
----------
+Technical Experience
+--------------------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+Programming Skills
+:   **Front-End:**  
+    Vue3 / React18 / Typescript / ES8+  
+    Nuxt.js / Next.js / Webpack  
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+:   **UI:**  
+    mxGraph / eChart / GSAP / jQuery / SCSS / CSS3 / HTML5  
+    React Bootstrap / MaterialUI / Ant Design / Vuetify / elementUI
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+:   **Server language:**  
+    Node.js
 
-    *Minor: Awesomeology*
+:   **Server service:**  
+    AWS (Elastic Beanstalk, Lambda, DynamoDB, S3, CloudFront, Route53)
+    Firebase  
+    Linux  
+
+:   **Communication:**  
+    Notion / Slack / Jira Confluence / Teams
+
+:   **Etc:**  
+    WebRTC / Gulp / Grunt / Git / SVN
+
+[ref]: https://github.com/croot-git
+
 
 Experience
 ----------
@@ -48,57 +62,31 @@ links:
 
 Also with a short description.
 
-Technical Experience
---------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+Education
+---------
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+2012-2014
+:   **학사, 정보통신공학**; 학점은행
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+    * 디지털전자회로, 전자계산기구조, 자료구조, 네트워크 등
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/croot-git
-
-Extra Section, Call it Whatever You Want
+Certificate
 ----------------------------------------
 
-* Human Languages:
+2012.11
+: **정보처리기사** / 한국산업인력공단  
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+2010.12
+: **정보통신산업기사**   / 한국방송통신전파진흥원  
 
-* Random tidbit
+2010.09  
+: **사무자동화산업기사** / 한국산업인력공단  
 
-* Other sort of impressive-sounding thing you did
+2015.06  
+: **조주기능사** / 한국산업인력공단  
+
 
 ----
 
