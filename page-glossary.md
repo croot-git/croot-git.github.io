@@ -50,9 +50,40 @@ tags: 용어, 정의
 
 | 용어 | 설명 |
 |:---|:-----|
-| EEF <span>Enterprise Environment Factors</span> | 제어할 수 없는 내/외부요인 |
+| EEF <span>Enterprise Environment Factors</span> | 제어할 수 없는 환경요인 |
 | OPA <span>Organizational Process Assset</span> | 조직프로세스자산 |
 | PP <span>Payback Period</span> | 투자 회수 기간 |
 | IRR <span>Internal Rate of Return</span> | 내부 수익율 |
 | NPV <span>Net Present Value</span> | 순현재가치 |
 | ROI <span>Return Of Investment</span> | 투자 대비 수익율 |
+
+
+서비스
+------
+
+| 용어 | 설명 |
+|:-----|:-----|
+| NLP <span>Natural Language Processing</span> | 자연어 처리 기술 |
+| NLU <span>Natural Language Understanding</span> | 자연어 이해 기술 |
+| NLG <span>Natural Language Generation</span> | 자연어 구사 기술 |
+| NER <span>Named Entity Recognition</span> | 개채명 인식 |
+| IPA <span>Intelligenct Personal Assistant</span> | 지능형 개인비서 |
+| MEC <span>Mobile Edge Computing</span> | 클라우드 컴퓨팅을 네트워크 엣지로 가져 와서 클라우드 컴퓨팅 기능을 확장하는 일종의 엣지 컴퓨팅 |
+| SASE <span>Secure Accesss Service Edge</span> | 클라우드 보안 기능과 네트워크 기능이 통합된 클라우드 기반 네트워크 서비스 모델 |
+| ONS <span>Object Name Service</span> | EPC 정보를 URL로 변환하는 기술 |
+| PML <span>Physical Markup Language</span> | 물리적 대상의 환경과 관계에 대한 설명을 위한 XML기반의 마크업 언어 |
+| EPC <span>Electronic Product Code</span> | 기존 바코드를 넘어서는 차세대 국제표준 무선 바코드 체계 |
+| TCAS <span>Traffic Collision Avoidance System</span> | 장애물 회피 시스템 |
+| LDT <span>Location Determination Technology</span> | 모바일 단말의 위치를 측정하는 무선측위기술 |
+| LEP <span>Location Enable Platform</span> | LBS와 이동통신망 사이에서 필요한 기술을 제공하기 위한 플랫폼 |
+| LAP <span>Location Application Program</span> | LBS를 이용한 응용 기술 |
+| LAS <span>Location Aware System</span> | 특정 위치에 있는 사물의 위치를 알아내어 적절한 서비스를 제공하는 인식 기술 |
+| POI <span>Point Of Interest</span> | 사용자가 직접 입력하는 관심지점 |
+ 
+<style>
+table span {
+    display: block;
+    font-size: 0.9em;
+}
+table span::before { content: '; '; }
+</style>
