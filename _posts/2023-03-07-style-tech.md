@@ -8,7 +8,7 @@ title: 스타일테크(StyleTech)
 
 ## 스타일테크 개념도 및 기술요소
 ### 가. 스타일테크 개념도
-![스타일테크 개념도](./2023-03-07-style-tech_concept.png)
+![스타일테크 개념도](/public/images/2023-03-07-style-tech_concept.png)
 
 ### 나. 스타일테크 기술요소
 - 스타일링 큐레이션: VR, AR, AI  
