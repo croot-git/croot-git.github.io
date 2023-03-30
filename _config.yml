@@ -1,0 +1,25 @@
+# Setup
+title:               croot blog
+tagline:             'front-end developer'
+description:         'Welcome!<br>This is a front-end developer croot`s blog<br>This is a personal space.'
+url:                 https://croot-git.github.io
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              croot
+  url:               https://croot-git.github.io
+  email:             croot.dev@gmail.com
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+github:
+  repo:              https://github.com/croot-git
+version:             1.0.0
+google_analytics_id: #UA-XXXX-Y
+google_tag_id: G-XDNR3M11VH
