@@ -55,12 +55,25 @@ tags: 암기
 | 요구공학/원리 | 명완검일수추 | 명확성, 완전성, 검증가능성, 일관성, 수정용이성, 추적성 |
 | SRS/구성 | 소기요부인 | 소개, 일반기술사항, 상세요구사항, 부록, 인덱스 |
 | **[아키텍처]** | --- | --- |
-| 아키텍처/설계절차 | 요참모프배 | 요구사항파악, 참조아키텍처준비, 모델링, 프로토타이핑, 배포 |
-| 아키텍처/설계원리 | 분추단모정 | 분할정복, 추상화, 단계적분해, 모듈화, 정보은닉 |
-| 아키텍처/평가유형 | 시뮬수경 | 시나리오, 시뮬레이션, 수학적, 경험 |
+| 아키텍처/특징 | 간추가 | 간결성, 추상화, 가시성 |
+| 아키텍처/특징 | 변비표의복관 | 변경민첩성, 비요절감, 표준화, 의사소통, 복잡성, 관점모형 |
 | 아키텍처/View | ULIPD | Usecase, Logical, Implementation, Process, Deployment |
+| 아키텍처/설계원리 | 분추단모정 | 분할정복, 추상화, 단계적분해, 모듈화, 정보은닉 |
+| 아키텍처/설계절차 | 요참모프배 | 요구사항파악, 참조아키텍처준비, 모델링, 프로토타이핑, 배포 |
+| 아키텍처/설계고려사항 | 기품제 | 기능요구, 품질요구, 제약사항 |
+| 아키텍처/평가유형 | 시뮬수경 | 시나리오, 시뮬레이션, 수학적, 경험 |
+| ATAM/절차 | 협기상후 | 협력과준비, 기본평가, 상세평가, 후속조치 |
+| ATAM/평가요소 | 시비아 | 시스템, 비즈니스, 아키텍처 |
+| ATAM/평가단계 | A비아 식품분 브분 결 | ATAM소개, 비즈니스소개, 아키텍처소개, 접근법 식별, 품질속성유틸리티트리 작성, 접근법 분석, 브레인스토밍, 접근법 분석반복, 결과발표 |
+| CBAM/절차 | 시효접선 | 시나리오 결정, 효용반응값곡선 작성, 접근법 전체이익 계산, 접근법 선별/평가 |
+
+| **[UML/DesignPattern]** | --- | --- |
+| UML/구조Diagram | 클오패컴컴디프 | Class, Object, Package, Component, Composite, Deployment, Profile |
+| UML/행위Diagram | 유아상 인순의오탐 | Usecase, Activity, StateMachine, Interaction, Sequence, Interaction Overview, Timing  |
+| UML/관계종류 | 연의GR | 연관, 의존, 일반화, 실체화 |
+| 디자인패턴/유형 | 생구행 | 생성, 구조, 행위 |
+
 | SOA/특징 | 프플루메 | 프로세스, 플랫폼독립적, loosly coupled, 메시지/프로세스 상태관리 |
-| OSI7Layer | 아파서T내다 | application, presentaion, session, transport, network, datalink, phsical |
 | **[개발]** | --- | --- |
 | OOP/특징 | 캡추다정상 | 캡슐화, 추상화, 다형성, 정보은닉, 상속 |
 | OOP/원리 | SOLID | SRP, OCP, LSP, IRP, DIP |
@@ -118,3 +131,10 @@ tags: 암기
 | NoSQL/특징 | BASE | 기본적 가용성(Basically Availability), 상태 변경성(Soft State), 결과적 일관성(Eventually consistency)  |
 | 데이터품질관리/지표 | 유정일-활유접적보 | 유효성(정확성,일관성), 활용성(유용성,접근성,적시성,보안성) |
 | DQM3/성숙수준 | 도정통량최 | 도입, 정형화, 통합화, 정량화, 최적화 |
+
+#### Network
+
+| 암기법 | 용어 | 설명 |
+|:-----|:-----|-----|
+| **[Network]** | --- | --- |
+| OSI7Layer | 아파서T내다 | application, presentaion, session, transport, network, datalink, phsical |
