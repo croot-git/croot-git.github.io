@@ -234,4 +234,8 @@ tags: 암기
     tr:focus td:nth-child(3) {
         visibility: visible;
     }
+    thead:hover ~ tbody td,
+    thead:focus ~ tbody td {
+        visibility: visible;
+    }
 </style>
