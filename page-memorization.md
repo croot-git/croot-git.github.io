@@ -109,6 +109,8 @@ tags: 암기
 | ATAM/평가요소 | 시비아 | 시스템, 비즈니스, 아키텍처 |
 | ATAM/평가단계 | A비아 식품분 브분 결 | ATAM소개, 비즈니스소개, 아키텍처소개, 접근법 식별, 품질속성유틸리티트리 작성, 접근법 분석, 브레인스토밍, 접근법 분석반복, 결과발표 |
 | CBAM/절차 | 시효접선 | 시나리오 결정, 효용반응값곡선 작성, 접근법 전체이익 계산, 접근법 선별/평가 |
+| 클린아키텍처/계층 | 엔유컨외 | Entity, UseCase, Controller, External Interface |
+| 오픈소스거버넌스/프레임워크 | 정획적운관 | 정책수립, 획득, 적용, 운영, 관리/개선 |
 | **[UML/DesignPattern]** | --- | --- |
 | UML/관계 | 연의GR | 연관, 의존, 일반화, 실체화 |
 | UML/구조Diagram | 클오패컴컴디프 | Class, Object, Package, Component, Composite, Deployment, Profile |
