@@ -3,8 +3,6 @@ layout: post
 title: MBO, KPI, OKR 비교
 ---
 
-# MBO, KPI, OKR 비교  
-
 ## MBO, KPI, OKR 정의
 
 | 유형 | 정의 |
