@@ -23,3 +23,6 @@ github:
 version:             1.0.0
 google_analytics_id: #UA-XXXX-Y
 google_tag_id: G-XDNR3M11VH
+
+# Main page
+homepage: page-memorization.md
