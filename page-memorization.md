@@ -3,7 +3,9 @@ layout: page
 title: 암기노트
 tags: 암기
 ---
-
+  
+[키노트](https://drive.google.com/file/d/1OvL7aIOTn-S39bVanI4SlKlAH0xmKY7R/view?usp=drive_link)  
+  
 > **[템플릿]**  
 > ```
 > #### 경영
